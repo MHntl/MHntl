@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Muhammet Hantal. I was born in 1992 and was a military person at Turkish Air Force. I am electricty and aircraft-electronic technician. But now i have changed my career route to become software developer.
-- 👀 I'm interested in learning new technology related to my occupation to improve myself. My hobbies include jogging, watching movies, anime, learning about computer hardware components technology, playing video games, and repairing broken devices
-- 🌱 I’m currently learning HTML,CSS,Boostrap,React and JS.
-- 💞️ I’m looking to collaborate on people that values ​​their colleague and teamwork oriented.
-- 📫 Here is my e-mail " mh.hantal@gmail.com " you can reach me via this. You can also use social media to reach me.
+👋 Hi, I’m Muhammet Hantal. I was born in 1992 and served in the Turkish Air Force. I am an electrical and aircraft electronics technician. However, I have now changed my career path to become a software developer.
+
+👀 I’m interested in learning new technologies related to my occupation to improve myself. Jogging, watching movies, anime, learning about computer hardware components technology, playing video games, and repairing broken devices are my hobbies.
+
+🌱 I’m currently learning HTML, CSS, Bootstrap, React, and JavaScript.
+
+💞️ I’m looking to collaborate with people who value their colleagues and are teamwork-oriented.
+
+📫 You can reach me via email at "mh.hantal@gmail.com," or you can also connect with me on social media.
