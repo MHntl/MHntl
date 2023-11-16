@@ -2,7 +2,7 @@
 
 👀 I’m interested in learning new technologies related to my occupation to improve myself. Jogging, watching movies, anime, learning about computer hardware components technology, playing video games, and repairing broken devices are my hobbies.
 
-🌱 I’m currently learning HTML, CSS, Bootstrap, React, and JavaScript.
+🌱 I’m currently learning React Native.
 
 💞️ I’m looking to collaborate with people who value their colleagues and are teamwork-oriented.
 
